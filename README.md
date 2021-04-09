@@ -1,5 +1,6 @@
 # Indias-COVID-Syringe
 India's COVID-19 cases visualized in a different way.
+
 To see the visualization in action, visit: https://observablehq.com/@the-darkmatter/indias-covid-syringe
 Circle size corresponds to daily new COVID cases for India.
 
